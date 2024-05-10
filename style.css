@@ -1,0 +1,153 @@
+.signupform{
+ border: 2px solid black;
+ width: 40%;
+ height: 50vh;
+text-align: center;
+margin-left: 150px;
+margin-top: 100px;
+box-shadow: 2px 2px 4px black;
+background-color: whitesmoke;
+
+}
+body{
+    background-color: whitesmoke;
+
+}
+.head{
+
+font-size: 40px;   
+color: green; 
+text-align: center;
+}
+label{
+    font-size: 20px;
+    display: block;
+}
+select,
+input{
+    font-weight: bold;
+    padding: 8px ;
+    margin-top: 20px;
+    width: 90%;
+    height: 35px;
+    border-width: 0px 0px 2px 2px;
+}
+input[type=submit]{
+    background-color: darkgrey;
+    width: 20%;
+    height: 40px;
+}
+.tx{
+width: 100%;
+height: 50px;
+background-color: darkgrey;
+color: beige;
+text-align: center;
+box-shadow: 2px 2px 3px black;
+
+}
+
+.header ul{
+    display: flex; 
+       
+}
+.header a{
+    position: relative;
+    
+    text-decoration: none;
+   
+    margin-left: 90px;
+    font-size: 30px;
+    color: white;
+    box-shadow: 2px 2px 3px black;
+
+    
+}
+.table{
+
+margin-top: -300px;
+color: white;
+}
+
+.tr{
+    border: 2px solid black;
+    width: 30%;
+    height: 550x;
+    margin-left: 600px;
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+    
+
+
+}
+.head{
+    font-size: 40px;   
+    color: green;  
+    margin-right: 50px;
+}
+.head  div form{
+    margin-left: 50px;
+}
+
+body{
+    background-image: url(photoo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.ok{
+    color: white;
+    margin-top: 300px;
+}
+.welcome{
+    
+    margin-top: -400px;
+}
+.welcome a{
+    color:orange;
+    font-size:25px;
+    text-decoration: none;
+}
+.product{
+    border: 2px solid black;
+    width: 40%;
+    height: 50vh;
+   text-align: center;
+   margin-left: 500px;
+   margin-top: 100px;
+   box-shadow: 2px 2px 4px black;
+   background-color: whitesmoke;
+
+}
+.table a{
+    color: orange;
+
+}
+.tr{
+    background-color: white;
+
+}
+.X{
+    margin-top: -400px;
+    color: white;
+}
+.X a{
+    color: orange;
+
+}
+.c{
+    margin-top: -200px;
+    color: white;
+}
+.c a{
+    color:orange;
+    
+}
+.report{
+    color: white;
+    background-color: rgba(130, 118, 118, 0.628);
+    
+}
+   
+    
